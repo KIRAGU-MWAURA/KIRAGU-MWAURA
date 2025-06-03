@@ -4,7 +4,7 @@ Hi 👋, they call me David Kiragu Mwaura 😄
 -  I’m currently 👀 using bioinformatics skill sets in pathogen discovery and molecular characterization of infectious viral agents.
 -  My current computational job involve: Shiny web application development, pathogen discovery in bats and baboons.
 -  I’m currently learning🌱 computational pipeline development
-- Reach me 📫 via Twitter: @MwauraKiragu and/or Email: davkmwaura@gmail.com or dkiragu@primateresearch.org
+- Reach me 📫 via Twitter: @MwauraKiragu and/or Email: davkmwaura@gmail.com or dkiragu@primateresearch.org or 3051341M@student.gla.ac.uk
 
 <!---
 KIRAGU-MWAURA/KIRAGU-MWAURA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
